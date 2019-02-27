@@ -1,0 +1,2 @@
+This repo contains simple C and C++ snippets. It also contains the tasks.json and launch.json files configured to get VS Code C/C++ debugging working in Windows 10 with MinGW installed.
+
