@@ -1,2 +1,6 @@
 This repo contains simple C and C++ snippets. It also contains the tasks.json and launch.json files configured to get VS Code C/C++ debugging working in Windows 10 with MinGW installed.
 
+1. Install MinGW.
+2. Add MinGW bin to path.
+3. Install C/C++ VS Code Extension by Microsoft.
+4. Configure launch.json and task.json.
